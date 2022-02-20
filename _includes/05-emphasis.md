@@ -5,3 +5,7 @@ _Este también estará en cursiva_
 __Este también estará en negrita__
 
 _También **puedes** combinarlos_
+
+
+##**Este texto estará en negrita**
+##__Este también estará en negrita__
